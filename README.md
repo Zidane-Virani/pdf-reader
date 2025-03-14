@@ -81,8 +81,8 @@ python app.py
 
 Here's How Your App Should Run
 1. The Homepage, where you can sign up and sign in
-
-2. The File List Page
+   ![Project Screenshot](pdf_reader_pictures/homepage.png)
+3. The File List Page
    ![Project Screenshot](pdf_reader_pictures/documents_page.png)
 4. The File List Page
    ![Project Screenshot](pdf_reader_pictures/upload_file.png)
