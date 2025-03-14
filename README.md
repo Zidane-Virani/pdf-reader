@@ -73,5 +73,18 @@ LANGFUSE_SECRET_KEY=
 PYTHONIOENCODING = utf-8
 
 
+
+
 Run the Flask server:
 python app.py
+
+
+Here's How Your App Should Run
+1. The Homepage, where you can sign up and sign in
+
+2. The File List Page
+   ![Project Screenshot](pdf_reader_pictures/documents_page.png)
+4. The File List Page
+   ![Project Screenshot](pdf_reader_pictures/upload_file.png)
+5. The Chatbot Screen with the options to have different chats
+   ![Project Screenshot](pdf_reader_pictures/chatbot_reader.png)
